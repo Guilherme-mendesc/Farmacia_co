@@ -1,0 +1,5 @@
+package com.farmou.farmaciaCO.repository;
+
+public interface PostRepository {
+
+}
